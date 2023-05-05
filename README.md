@@ -33,11 +33,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+here's the screenshot: 
+
 ## Review
 
 You are required to submit the following for review:
 
 * The URL of the deployed application.
+- https://mukhtaar123.github.io/Week-1_Code_Refactor/
 
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
