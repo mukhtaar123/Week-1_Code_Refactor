@@ -39,6 +39,8 @@ You are required to submit the following for review:
 
 * The URL of the deployed application.
 
+
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+ - https://github.com/mukhtaar123/Week-1_Code_Refactor.git
 
 
