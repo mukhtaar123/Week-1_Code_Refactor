@@ -33,7 +33,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-here's the screenshot: 
+here's the screenshot: ./assets/images/screenshotam.png
 
 ## Review
 
